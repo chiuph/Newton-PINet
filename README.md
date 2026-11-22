@@ -7,6 +7,7 @@ _Scientific machine learning has opened new avenues for solving parameterized pa
 
 
 **Paper:** [NeurIPS 2026](https://neurips.cc/virtual/2026/loc/sydney/poster/148607)  [arXiv](https://arxiv.org/abs/2611.20609v1) 
+
 **OpenReview:** [Reviews and Discussion](https://openreview.net/forum?id=wUNTVhsOr7#discussion)  
 
 ## Overview
