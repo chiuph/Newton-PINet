@@ -46,3 +46,10 @@ Existing deep learning methods for nonlinear PDEs often require substantial trai
 - **NVIDIA Driver:** 580
 - **CUDA:** 13.0
 
+# Coypright
+
+This tool is developed in Computational Sustainability (CoS) Division, Institute of High Performance Computing (IHPC), A*STAR.
+
+The copyright holder for this project is Computational Sustainability (CoS) Division, Institute of High Performance Computing (IHPC), A*STAR.
+
+All rights reserved.
